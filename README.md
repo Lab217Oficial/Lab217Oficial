@@ -119,6 +119,7 @@ El conocimiento libre viene con responsabilidad.
 ---
 
 <div align="center">
+  
 [![GitHub](https://img.shields.io/badge/github-Lab217Oficial-181717?style=flat-square&logo=github)](https://github.com/Lab217Oficial)
 
 ```
